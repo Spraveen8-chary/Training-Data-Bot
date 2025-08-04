@@ -1,0 +1,12 @@
+(my_env) PS D:\training-data-bot> $env:PYTHONPATH = "src"
+(my_env) PS D:\training-data-bot> python src/training_data_bot/dashboard/app.py
+✅ Loaded environment variables from D:\training-data-bot\.env
+
+
+
+
+
+
+
+
+streamlit run src/training_data_bot/dashboard/app.py

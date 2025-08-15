@@ -303,5 +303,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 **Transform any content into professional training data with the power of AI!** 🚀 
->>>>>>> bb6db53 (Initial commit without my_env)
+
+
 

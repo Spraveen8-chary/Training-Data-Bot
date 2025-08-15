@@ -1,6 +1,5 @@
-<<<<<<< HEAD
 # Training-Data-Bot
-=======
+<br><br>
 # 🧠 Training Data Curation Bot
 
 **Enterprise-grade training data curation for LLM fine-tuning with professional web scraping**
@@ -160,7 +159,7 @@ Training Data Bot Architecture
 └── 🖥️ Web Dashboard Interface
 ```
 
-## 📋 Step-by-Step Learning Guide
+## 📋 Step-by-Step Guide
 
 1. **[Step 3: Core Data Models](step3_core_data_models.md)** - Understanding the data architecture
 2. **[Step 4: Document Loading Pipeline](step4_document_loading_pipeline.md)** - How content enters the system
@@ -305,3 +304,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Transform any content into professional training data with the power of AI!** 🚀 
 >>>>>>> bb6db53 (Initial commit without my_env)
+
